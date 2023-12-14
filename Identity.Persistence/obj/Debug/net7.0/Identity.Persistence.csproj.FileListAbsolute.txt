@@ -1,0 +1,15 @@
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\bin\Debug\net7.0\Identity.Persistence.deps.json
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\bin\Debug\net7.0\Identity.Persistence.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\bin\Debug\net7.0\Identity.Persistence.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\bin\Debug\net7.0\Identity.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\bin\Debug\net7.0\Identity.Domain.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.csproj.AssemblyReference.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.AssemblyInfoInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.AssemblyInfo.cs
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.csproj.CopyComplete
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\refint\Identity.Persistence.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\Identity.Persistence.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Persistence\obj\Debug\net7.0\ref\Identity.Persistence.dll

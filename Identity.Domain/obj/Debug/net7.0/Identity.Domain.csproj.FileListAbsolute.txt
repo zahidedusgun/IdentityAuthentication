@@ -1,0 +1,12 @@
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\bin\Debug\net7.0\Identity.Domain.deps.json
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\bin\Debug\net7.0\Identity.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\bin\Debug\net7.0\Identity.Domain.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\refint\Identity.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\Identity.Domain.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\Identity\Identity.Domain\obj\Debug\net7.0\ref\Identity.Domain.dll
