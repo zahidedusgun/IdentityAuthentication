@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Identity.Domain",
-    "\\Identity.Domain\\Identity"
+    "\\Identity.Domain\\Identity",
+    "\\Identity.WebApi"
   ],
-  "SelectedNode": "\\Identity.Domain\\Identity\\User.cs",
+  "SelectedNode": "\\IdentityFramework.sln",
   "PreviewInSolutionExplorer": false
 }
