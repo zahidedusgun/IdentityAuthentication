@@ -9,6 +9,7 @@ namespace Identity.MVC.Controllers
     public class AuthController : Controller
     {
         private readonly UserManager<User> _userManager;
+        private readonly SignInManager<User> _signInManager;
         private readonly IToastNotification _toastNotification;
 
         public AuthController(UserManager<User> userManager, IToastNotification toastNotification )
@@ -82,6 +83,37 @@ namespace Identity.MVC.Controllers
             var loginViewModel = new AuthLoginViewModel();
 
             return View(loginViewModel);
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> LoginAsync(AuthLoginViewModel loginViewModel)
+        {
+            if (!ModelState.IsValid)
+                return View(loginViewModel);
+
+            var user = await _userManager.FindByEmailAsync(loginViewModel.Email);
+
+            if (user is null)
+            {
+                _toastNotification.AddErrorToastMessage("Your email or password is incorrect.");
+
+                return View(loginViewModel);
+            }
+
+            var loginResult = await _signInManager.PasswordSignInAsync(user, loginViewModel.Password, true, false);
+
+            if (!loginResult.Succeeded)
+            {
+                _toastNotification.AddErrorToastMessage("Your email or password is incorrect.");
+
+                return View(loginViewModel);
+            }
+            _toastNotification.AddSuccessToastMessage($"Welcome {user.UserName}!");
+
+            return RedirectToAction(nameof(Index),controllerName:"Students");
+
+
         }
 
 
